@@ -16,7 +16,13 @@ Com um CRUD completo (Criar, Ler, Atualizar e Deletar), o sistema oferece total 
 
 ## 📸 Preview
 
-*(Arraste suas imagens aqui para adicionar os screenshots)*
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/035b6e56-5496-4841-be0b-2ff59647240a" />
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/a83328c0-1038-4469-9ef3-f4329e09064f" />
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/b0857d6e-b6f3-4d5a-9020-c5c9be18c700" />
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/68c6c242-36fa-4fab-a00b-2742c047ed32" />
+
+
+
 
 ---
 
