@@ -1,66 +1,125 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center">📅 Agenda</h1>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+    Sistema de agenda flexível desenvolvido durante a matéria de <strong>Programação Web</strong> no curso de Análise e Desenvolvimento de Sistemas na ETEC de Guaianases.
 </p>
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🎯 Sobre o Projeto
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+A **Agenda** é um sistema web completo e flexível onde você pode cadastrar e gerenciar qualquer tipo de informação que precisar organizar: compromissos, contatos, tarefas, eventos ou qualquer coisa que queira anotar.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Com um CRUD completo (Criar, Ler, Atualizar e Deletar), o sistema oferece total controle sobre seus registros de forma simples, intuitiva e organizada.
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 📸 Preview
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+*(Arraste suas imagens aqui para adicionar os screenshots)*
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## 💻 Tecnologias Utilizadas
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" title="Laravel" style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" style="padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
+</p>
 
-### Premium Partners
+---
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## ✨ Funcionalidades
 
-## Contributing
+- ✅ **Cadastrar** novos registros na agenda
+- ✅ **Visualizar** todos os itens em uma listagem organizada
+- ✅ **Editar** informações a qualquer momento
+- ✅ **Excluir** registros que não precisa mais
+- ✅ **Interface simples** e intuitiva
+- ✅ **Sistema flexível** para qualquer tipo de conteúdo
+- ✅ **Arquitetura MVC** com Laravel
+- ✅ **Design responsivo**
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
+## 🚀 Como Executar
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### 📋 Pré-requisitos
 
-## Security Vulnerabilities
+- 🐘 **PHP** 8.1 ou superior
+- 📦 **Composer** instalado
+- 🗄️ **MySQL** ou MariaDB
+- 🔧 **Node.js** e **npm** (para assets)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### ⚙️ Passo a passo
 
-## License
+**1. Clone o repositório:**
+> `git clone https://github.com/Eo-dias/Agenda.git`
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+**2. Entre na pasta:**
+> `cd Agenda`
+
+**3. Instale as dependências do PHP:**
+> `composer install`
+
+**4. Instale as dependências do Node:**
+> `npm install`
+
+**5. Copie o arquivo de ambiente:**
+> `cp .env.example .env`
+
+**6. Gere a chave da aplicação:**
+> `php artisan key:generate`
+
+**7. Configure o banco de dados** no arquivo `.env` com suas credenciais MySQL
+
+**8. Execute as migrations:**
+> `php artisan migrate`
+
+**9. Compile os assets:**
+> `npm run dev`
+
+**10. Inicie o servidor:**
+> `php artisan serve`
+
+**11. Acesse no navegador:**
+> http://localhost:8000
+
+---
+
+## 🎓 Contexto Acadêmico
+
+Este projeto foi desenvolvido durante a matéria de **Programação Web** no curso Técnico em **Análise e Desenvolvimento de Sistemas** na **ETEC de Guaianases**, com o objetivo de aplicar conceitos de:
+
+- 🔹 Desenvolvimento web full-stack com Laravel
+- 🔹 Arquitetura MVC (Model-View-Controller)
+- 🔹 Operações CRUD (Create, Read, Update, Delete)
+- 🔹 Integração PHP + MySQL
+- 🔹 Boas práticas de programação
+- 🔹 Uso de frameworks modernos
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Matheus Dias** 🚀
+
+<p align="left">
+    <a href="https://github.com/Eo-dias" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-diass-/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/eo.diasx7/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+</p>
+
+---
+
+⭐ **Se gostou do projeto, deixa uma estrela!**
